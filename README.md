@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">👨‍💻<class="bi bi-terminal-fill"></i> Gilson Rodrigues de Almeida</h1>
+<p align="center">
+  <strong>Desenvolvedor Full Stack</strong><br>
+  <em>Laravel • PHP • MySQL • CSS • HTML</em>
+</p>
 
-<!--
-**gilsonxakri/gilsonxakri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Sou o **Gilson Rodrigues de Almeida**, desenvolvedor apaixonado por tecnologia, com foco em soluções completas para web.
+
+Trabalho tanto no **Front-end** quanto no **Back-end**, sempre buscando entregar interfaces bonitas, funcionais e sistemas robustos com **Laravel**, **PHP**, **MySQL**, **CSS**, entre outras tecnologias.
+
+---
+
+## 🚀 Tecnologias que uso
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git"/>
+  <img sytyle="box-shadow: white 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40px" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40px" alt="Composer"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40px" alt="Apache"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" alt="Linux"/>
+</div>
+
+---
+
+## 🛠️ O que eu faço
+
+- Desenvolvimento de sistemas completos com **Laravel + MySQL**
+- Interfaces modernas com **HTML + CSS**
+- APIs RESTful com **PHP puro ou Laravel**
+- Projetos responsivos e acessíveis
+
+---
+
+## 📂 Alguns projetos
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Sistema de Biblioteca] | Gestão de livros, empréstimos e usuários | Laravel, MySQL |
+| [Dicionário Interativo] | App educacional com imagens e traduções | PHP, MySQL |
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gilxakri)  
+- 💻 [Portfólio](https://gilsonrodrigues.app.br) 
+- 📧 Email: **gilxxakri@gmail.com**  
+- 📱 WhatsApp: [Clique para conversar](https://wa.me/5538998919139)
+
+---
+
+<p align="center">
+  💙 Obrigado por visitar meu perfil! <br>
+</p>
