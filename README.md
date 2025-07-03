@@ -54,7 +54,7 @@ Trabalho tanto no **Front-end** quanto no **Back-end**, sempre buscando entregar
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gilxakri)  
-- 💻 [Portfólio](https://gilsonrodrigues.app.br) 
+- 💻 [Portfólio](https://portfolio.gilsonrodrigues.app.br) 
 - 📧 Email: **gilxxakri@gmail.com**  
 - 📱 WhatsApp: [Clique para conversar](https://wa.me/5538998919139)
 
