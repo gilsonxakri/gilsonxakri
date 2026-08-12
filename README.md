@@ -58,7 +58,7 @@ Trabalho tanto no **Front-end** quanto no **Back-end**, sempre buscando entregar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gilxakri)  
 - 💻 [Portfólio](https://gilsonrodrigues.app.br) Em manutenção por enquanto
-- 📧 Email: **rodrixcodesystems@gmail.com.com**  
+- 📧 Email: **rodrixcodesystems@gmail.com**  
 
 ---
 
